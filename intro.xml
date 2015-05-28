@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resource_file type="SampleLibrary" subresource_count="2" version="1.1" version_name="Godot Engine v1.1.beta1.42d41a3fbc">
+	<ext_resource path="res://intro.smp" type="Sample"></ext_resource>
+	<main_resource>
+		<dictionary name="samples/intro" shared="false">
+			<string> "db" </string>
+			<real> -5 </real>
+			<string> "pitch" </string>
+			<real> 1 </real>
+			<string> "sample" </string>
+			<resource  resource_type="Sample" path="res://intro.smp">  </resource>
+		</dictionary>
+
+	</main_resource>
+</resource_file>
